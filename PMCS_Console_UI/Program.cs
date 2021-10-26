@@ -7,7 +7,6 @@ namespace PMCS_Console_UI
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
         }
     }
 }
