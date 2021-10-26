@@ -9,4 +9,10 @@
     <Folder Include="Interfaces\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="DataAccess">
+      <HintPath>..\..\Net5ClassLibrary\DataAccess\bin\Debug\net5.0\DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

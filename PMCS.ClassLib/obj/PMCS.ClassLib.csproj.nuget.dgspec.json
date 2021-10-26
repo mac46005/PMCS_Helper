@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {}
+    "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {
+    "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj",
+        "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj",
         "projectName": "PMCS.ClassLib",
-        "projectPath": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj",
+        "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj",
         "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\obj\\",
+        "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

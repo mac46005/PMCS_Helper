@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS_Console_UI\\PMCS_Console_UI.csproj",
+      "projectUniqueName": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS_Console_UI\\PMCS_Console_UI.csproj",
       "projectName": "PMCS_Console_UI",
-      "projectPath": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS_Console_UI\\PMCS_Console_UI.csproj",
+      "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS_Console_UI\\PMCS_Console_UI.csproj",
       "packagesPath": "C:\\Users\\mac46\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS_Console_UI\\obj\\",
+      "outputPath": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS_Console_UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {
-              "projectPath": "C:\\Users\\mac46\\Desktop\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj"
+            "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj": {
+              "projectPath": "F:\\PROGRAMMING\\GitHub_Repositories\\PMCS_Helper\\PMCS.ClassLib\\PMCS.ClassLib.csproj"
             }
           }
         }
