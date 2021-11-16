@@ -1,0 +1,15 @@
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\PMCS.ClassLib.deps.json
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\PMCS.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\ref\PMCS.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\PMCS.ClassLib.pdb
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\DataAccess.dll
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\bin\Debug\net5.0\DataAccess.pdb
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.csproj.AssemblyReference.cache
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.AssemblyInfoInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.AssemblyInfo.cs
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.csproj.CoreCompileInputs.cache
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.csproj.CopyComplete
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\ref\PMCS.ClassLib.dll
+F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS.ClassLib\obj\Debug\net5.0\PMCS.ClassLib.pdb
