@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 F:\PROGRAMMING\GitHub_Repositories\PMCS_Helper\PMCS_Helper_WPF\App.xaml
-3-387338971
+4-578686130
 
-10-1803589383
+11-1789265807
 22769604537
-Views\DashBoardView.xaml;Views\PMCS_EquipMenu.xaml;Views\ShellView.xaml;
+Views\DashBoardView.xaml;Views\EquipPMCSPreInfoView.xaml;Views\PMCS_EquipMenu.xaml;Views\ShellView.xaml;
 
 True
 

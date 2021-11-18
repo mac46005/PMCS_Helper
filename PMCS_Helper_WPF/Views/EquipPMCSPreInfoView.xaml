@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="PMCS_Helper_WPF.Views.EquipPMCSPreInfoView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PMCS_Helper_WPF.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="1000" d:DesignWidth="1000"
+             Background="White"
+             FontSize="20">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="1"
+               Grid.ColumnSpan="4"
+               HorizontalAlignment="Center"
+               FontSize="40" FontWeight="Bold">
+            Pre PMCS Info Update
+        </Label>
+
+        <Label x:Name="UnitInfo"
+               Grid.Row="1" Grid.Column="1"
+               HorizontalAlignment="Center"
+               FontSize="30"/>
+        
+        <!-- START Header Row 2 -->
+        <Label Grid.Row="2" Grid.Column="1"
+               HorizontalAlignment="Center" VerticalAlignment="Center">
+            ADMIN NUMBER
+        </Label>
+        
+        <Label Grid.Row="2" Grid.Column="2"
+               HorizontalAlignment="Center" VerticalAlignment="Center">
+            MODEL
+        </Label>
+        
+        <Label Grid.Row="2" Grid.Column="3"
+               HorizontalAlignment="Center" VerticalAlignment="Center">
+            Equipment Noun
+        </Label>
+
+        <Label Grid.Row="2" Grid.Column="4"
+               HorizontalAlignment="Center" VerticalAlignment="Center">
+            Current Reading
+        </Label>
+        <!-- END Header Row 2 -->
+        
+        <!-- START Content Of HEADER Row 3 -->
+        <!-- END Content of HEADER Row 3 -->
+    </Grid>
+</UserControl>
