@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCS_DataManager", "PMCS_Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCS_Helper_WPF", "PMCS_Helper_WPF\PMCS_Helper_WPF.csproj", "{3026AF6E-7199-4B8F-93F9-29EECE51E7AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMCS_DataManager.ClassLib", "PMCS_DataManager.ClassLib\PMCS_DataManager.ClassLib.csproj", "{2EDAA0D9-4B07-4379-927A-DF7EE52D2B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3026AF6E-7199-4B8F-93F9-29EECE51E7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3026AF6E-7199-4B8F-93F9-29EECE51E7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3026AF6E-7199-4B8F-93F9-29EECE51E7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDAA0D9-4B07-4379-927A-DF7EE52D2B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDAA0D9-4B07-4379-927A-DF7EE52D2B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDAA0D9-4B07-4379-927A-DF7EE52D2B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDAA0D9-4B07-4379-927A-DF7EE52D2B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
